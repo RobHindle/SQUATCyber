@@ -1,0 +1,13 @@
+ca,co,c0,can,cda,cdn,canada,kda,kan,kdn
+gc,goc,gdc,gov,guv,gofc,gduc,gvnmt,gvn
+gc.ca,goc.can,goc.cda,goc.cdn,gofc.can,gofc.cda,gofc.cdn
+gc.ca,gdc.can,gdc.cda,gdc.cdn,gduc.can,gduc.cda,gduc.cdn
+gc.ca,gov.can,gov.cda,gov.cdn,guv.can,guv.cda,guv.cdn
+gc.ca,gvn.can,gvn.cda,gvn.cdn,gvnmt.can,gvnmt.cda,gvnmt.cdn
+com,c0m,con,c0n,cun,cum,cam,can,ccm,ccn,csm,csn,czm,czn,co,c0,cm,cn
+org,0rg,orj,orp,soc,society,assoc,organ,organization
+net,nt,notknet,ket,network,netwk
+uk,untdkgdm,unitedkingdom,eng,englnd,england,wal,wales,sctld,scotland,uh,royal,roy,roi
+co.uk,c0.uk,com.uk,con.uk,c0n.uk,c0m.uk
+gov.uk,guv.uk,gvn.uk,guk.uk,gvnmt.uk,hms.uk
+us,usa,usamerica,unitedstates,america,united,states,
